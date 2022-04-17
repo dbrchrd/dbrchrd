@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dbrchrd
+- 👋 Hi, I’m @dbrchrd, French student in the new technologies.
 
 <!---
 - 👀 I’m interested in ...
