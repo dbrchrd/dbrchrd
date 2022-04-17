@@ -1,6 +1,5 @@
-<!---
 - 👋 Hi, I’m @dbrchrd
---->
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
