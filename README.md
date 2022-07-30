@@ -11,6 +11,9 @@
   <img src="https://profile-counter.glitch.me/dbrchrd/count.svg" />
 </p>
 
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=dbrchrd&show_icons=true&hide_border=true&theme=discord_old_blurple" />
+<img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbrchrd&theme=discord_old_blurple" />
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
