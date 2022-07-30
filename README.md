@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @dbrchrd, French student in the new technologies.
+- 👋 Hi, I’m [@dbrchrd](https://github.com/dbrchrd), French student in the new technologies.
+
+
+- 🔭 I’m currently working on many project
+- 📫 How to reach me: [Discord](https://github.com/dbrchrd) / [Mail](https://github.com/dbrchrd)
 
 <!---
 - 👀 I’m interested in ...
