@@ -6,6 +6,11 @@
 - 💻 I use [VS Code](https://code.visualstudio.com) IDE powered by [Microsoft](https://microsoft.com/fr-fr/)
 - 🥖 I live and study in Le Mans (France)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dbrchrd/count.svg" />
+</p>
+
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
