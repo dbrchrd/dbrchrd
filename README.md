@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on many project
 - 📫 How to reach me: [Discord](https://github.com/dbrchrd) / [Mail](https://github.com/dbrchrd)
+- 💻 I use [VS Code](https://code.visualstudio.com) IDE powered by [Microsoft](https://microsoft.com/fr-fr/)
+- 🥖 I live and study in Le Mans (France)
 
 <!---
 - 👀 I’m interested in ...
