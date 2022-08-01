@@ -10,6 +10,15 @@
 ## 🌍 Programming & markup languages:
 [![progLang](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,py,cpp&theme=dark)](https://github.com/dbrchrd)
 
+  
+## 💻 Frameworks:
+
+  ### CSS:
+  [![css](https://skillicons.dev/icons?i=scss&theme=dark)](https://github.com/dbrchrd)
+  
+  ### JS:
+  [![js](https://skillicons.dev/icons?i=vue,nuxtjs,vite,express,electron&theme=dark)](https://github.com/dbrchrd)
+  
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dbrchrd/count.svg" alt />
