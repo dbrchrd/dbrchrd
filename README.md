@@ -19,6 +19,12 @@
   ### JS:
   [![js](https://skillicons.dev/icons?i=vue,nuxtjs,vite,express,electron&theme=dark)](https://github.com/dbrchrd)
   
+## ⚙️ Tools:
+  [![tools](https://skillicons.dev/icons?i=git,vscode,atom,regex&theme=dark)](https://github.com/dbrchrd)
+  
+## 📦 Databases:
+ [![databases](https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark)](https://github.com/dbrchrd)
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/dbrchrd/count.svg" alt />
