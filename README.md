@@ -8,7 +8,7 @@
 
 
 ## 🌍 Programming & markup languages:
-[![progLang](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,py,cpp&theme=dark)](https://github.com/dbrchrd)
+[![progLang](https://skillicons.dev/icons?i=ts,rust,js,nodejs,html,css,wasm,c,cpp&theme=dark)](https://github.com/dbrchrd)
 
   
 ## 💻 Frameworks:
